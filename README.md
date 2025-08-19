@@ -23,22 +23,16 @@ This project provides a seamless platform for students and instructors to manage
 **Database**: (MongoDB / MySQL – mention what you used)  
 **Version Control**: Git, GitHub  
 
----
-
-## 🎥 Project Demo
-
-<video src="media/demo.mp4" controls width="600"></video>
-
----
 
 ## 📸 Screenshots
 
 Here are some screenshots of the project:
 
-![Screenshot 1](Screenshot 2025-08-19 190416.png)  
-![Screenshot 2](Screenshot 2025-08-19 190425.png)  
-![Screenshot 3](Screenshot 2025-08-19 190443.png)  
-![Screenshot 4](Screenshot 2025-08-19 190454.png)  
+
+![Screenshot 1](Screenshot%202025-08-19%20190416.png)  
+![Screenshot 2](Screenshot%202025-08-19%20190425.png)  
+![Screenshot 3](Screenshot%202025-08-19%20190443.png)  
+![Screenshot 4](Screenshot%202025-08-19%20190454.png)  
 
 ---
 

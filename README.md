@@ -31,6 +31,17 @@ This project provides a seamless platform for students and instructors to manage
 
 ---
 
+## 📸 Screenshots
+
+Here are some screenshots of the project:
+
+![Screenshot 1](media/Screenshot%202025-08-19%20190416.png)  
+![Screenshot 2](media/Screenshot%202025-08-19%20190425.png)  
+![Screenshot 3](media/Screenshot%202025-08-19%20190443.png)  
+![Screenshot 4](media/Screenshot%202025-08-19%20190454.png)  
+
+---
+
 ## 📂 Project Structure
 
 ```bash

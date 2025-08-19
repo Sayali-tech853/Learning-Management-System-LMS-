@@ -35,10 +35,10 @@ This project provides a seamless platform for students and instructors to manage
 
 Here are some screenshots of the project:
 
-![Screenshot 1](media/Screenshot%202025-08-19%20190416.png)  
-![Screenshot 2](media/Screenshot%202025-08-19%20190425.png)  
-![Screenshot 3](media/Screenshot%202025-08-19%20190443.png)  
-![Screenshot 4](media/Screenshot%202025-08-19%20190454.png)  
+![Screenshot 1](Screenshot 2025-08-19 190416.png)  
+![Screenshot 2](Screenshot 2025-08-19 190425.png)  
+![Screenshot 3](Screenshot 2025-08-19 190443.png)  
+![Screenshot 4](Screenshot 2025-08-19 190454.png)  
 
 ---
 
